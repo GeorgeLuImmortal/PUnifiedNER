@@ -1,5 +1,7 @@
 # PUnifiedNER
 
-Official implementation of the AAAI-2023 paper: PUnifiedNER: a Prompting-based Unified NER System for Diverse Datasets
+PUnifiedNER:a Prompt-Based NER System Jointly Crossing Multiple NER Datasets
 
-All resources will be releases soon.
+# Checkpoints
+
+Multi-dataset trained model: [OneDrive](https://sensetime-my.sharepoint.cn/:f:/g/personal/lujinghui1_sensetime_com/EpV6UmRaSD5Kj2ey12o9iP0BXORx7EctEgvMP0EO5VCb2g?e=pXevec)

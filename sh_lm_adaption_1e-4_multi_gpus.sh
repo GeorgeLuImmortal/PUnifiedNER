@@ -1,0 +1,13 @@
+python T5_LM_adaption_multi_gpus.py \
+--train_batch_size_per_gpu 8 \
+--dev_batch_size_per_gpu 16 \
+--lr 1e-4 \
+--epoch 100 \
+--cut_off 0.9 \
+--max_source_length 128 \
+--max_target_length 128 \
+--save_dir /mnt/lustre/lujinghui1/Unified_NER/pretrained_ckpt_1e-4/ \
+--eval_steps 1000 \
+--tokenizer ./models/my_t5_base/ \
+--model ./models/my_t5_base/ \
+--data_dir ./ner_datasets/

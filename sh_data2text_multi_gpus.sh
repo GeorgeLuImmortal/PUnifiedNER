@@ -1,0 +1,13 @@
+python train_data2text_multi_gpus.py \
+--train_batch_size_per_gpu 8 \
+--dev_batch_size_per_gpu 16 \
+--lr 1e-4 \
+--epoch 50 \
+--max_source_length 512 \
+--max_target_length 512 \
+--save_dir /mnt/lustre/lujinghui1/Unified_NER/data2text/ \
+--eval_steps 150 \
+--tokenizer ./models/my_t5_base/ \
+--model ./models/my_t5_base/ \
+--train_dir ./ner_datasets/data2text_train.json \
+--dev_dir ./ner_datasets/data2text_dev.json 
