@@ -1,7 +1,5 @@
 # PUnifiedNER
 
-PUnifiedNER:a Prompt-Based NER System Jointly Crossing Multiple NER Datasets
+This is a replicate implementation based on paper [PUnifiedNER:a Prompt-Based NER System Jointly Crossing Multiple NER Datasets](https://arxiv.org/abs/2211.14838)
 
-# Checkpoints
 
-Multi-dataset trained model: [OneDrive](https://sensetime-my.sharepoint.cn/:f:/g/personal/lujinghui1_sensetime_com/EpV6UmRaSD5Kj2ey12o9iP0BXORx7EctEgvMP0EO5VCb2g?e=pXevec)
