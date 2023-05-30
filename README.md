@@ -2,7 +2,7 @@
 
 This repository is a replicate implementation based on paper [PUnifiedNER:a Prompt-Based NER System Jointly Crossing Multiple NER Datasets](https://arxiv.org/abs/2211.14838) (Accepted to the main conference of AAAI2023)
 
-![overview](./plots/overview.png)
+![overview](./plots/punifiedner.png)
 
 ## Usage
 
