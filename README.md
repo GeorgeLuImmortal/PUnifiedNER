@@ -41,5 +41,5 @@ Tested Python 3.6, and requiring the following packages, which are available via
 ### Demo video
 
 
-[![Alternate Text]]({https://drive.google.com/file/d/1510IVMpMp8AF01817iABxe2Pf3eUOE2p/view?usp=sharing} "Link Title")
+[Alternate Text](https://drive.google.com/file/d/1510IVMpMp8AF01817iABxe2Pf3eUOE2p/view?usp=sharing)
 
