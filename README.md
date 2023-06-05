@@ -29,13 +29,13 @@ Tested Python 3.6, and requiring the following packages, which are available via
 
 ### Quick Start
 
-Prefix language model adapatation: sh_lm_adaption_1e-4_multi_gpus.sh
+1. Prefix language model adapatation: sh_lm_adaption_1e-4_multi_gpus.sh
 
-Multi-dataset PUnifiedNER tuning: sh_train_all_multi_gpus.sh
+2. Multi-dataset PUnifiedNER tuning: sh_train_all_multi_gpus.sh
 
-Test set evaluation: sh_eval_{dataset_name}.sh
+3. Test set evaluation: sh_eval_{dataset_name}.sh
 
-Quick demo using Gradio: PUnifiedNER_Demo_Gradio.ipynb
+4. Quick demo using Gradio: PUnifiedNER_Demo_Gradio.ipynb
 
 
 ### Demo video
