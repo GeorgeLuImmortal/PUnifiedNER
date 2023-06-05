@@ -12,6 +12,8 @@ This repository is a replicate implementation based on paper [PUnifiedNER:a Prom
 
 [People Daily (train)](https://drive.google.com/file/d/1Vw0C92qgQrQcg5-pyNiB-1HAD_uPjECr/view?usp=sharing)
 
+Other datasets can be found under ner_datasets/
+
 ## Usage
 
 ### Dependencies
