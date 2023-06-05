@@ -7,8 +7,10 @@ This repository is a replicate implementation based on paper [PUnifiedNER:a Prom
 # Datasets
 
 [People Daily (dev)](https://drive.google.com/file/d/174xsXuP1BsT8PsLUM0OkyMOZKtxICe0G/view?usp=sharing)
+
 [People Daily (test)](https://drive.google.com/file/d/1qoPjyB9GGl6PSTdWkSzKQtYe_42qMZBW/view?usp=sharing)
-[People Daily (train)] (https://drive.google.com/file/d/174xsXuP1BsT8PsLUM0OkyMOZKtxICe0G/view?usp=sharing)
+
+[People Daily (train)](https://drive.google.com/file/d/1Vw0C92qgQrQcg5-pyNiB-1HAD_uPjECr/view?usp=sharing)
 
 ## Usage
 
